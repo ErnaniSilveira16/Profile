@@ -6098,6 +6098,9 @@ a.close.disabled {
 .bg-primary {
   background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/img-sobreMim.jpg"); !important;
 }
+.cor-footer {
+ background-color: rgba(0, 0, 0, 0.993) !important;
+}
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
@@ -6156,7 +6159,7 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: #f8f9fa !important;
+  background-color: #f8f8fa !important;
 }
 
 a.bg-light:hover, a.bg-light:focus,
